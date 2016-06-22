@@ -1,3 +1,6 @@
-.dat	
-.txt
-.o
+*.dat	
+*.txt
+*.o
+*.pcm
+*.so
+*.d
