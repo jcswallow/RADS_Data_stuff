@@ -5,3 +5,6 @@
 *.so
 *.d
 *.root
+*.aux
+*.log
+*.backup
